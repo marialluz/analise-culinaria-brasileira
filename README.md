@@ -1,7 +1,8 @@
 # Análise de Assortatividade em Grafos de Ingredientes da Culinária Brasileira
 
 ### Maria Eduarda Lima da Luz  
-**Matrícula:** 20250051776 
+**Matrícula:** 20250051776
+
 **Curso:** Engenharia da Computação - UFRN
 
 ---
@@ -24,7 +25,7 @@ O trabalho envolveu:
 
 Para identificar os ingredientes e classificá-los, utilizei o modelo de linguagem **ChatGPT 4.0** com o seguinte prompt:
 
-![Prompt Utilizado](./imagens/prompt.png)
+![Prompt Utilizado](./imagens/prompt.jpeg)
 
 O prompt solicitava a identificação do nome da receita, a lista de ingredientes principais e a classificação de cada ingrediente em categorias pré-definidas, conforme exigido pela tarefa.
 
