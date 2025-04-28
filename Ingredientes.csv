@@ -1,0 +1,52 @@
+nome_receita,ingredientes,tipos_ingredientes,estado_origem
+Feijoada,"feijão preto, carne seca, linguiça calabresa, costelinha de porco, bacon, arroz, couve, farofa, alho, cebola, folha de louro, tomate","leguminosa, proteína, gordura, carboidrato, vegetal, condimento",Rio de Janeiro (RJ)
+Moqueca Baiana,"peixe, leite de coco, azeite de dendê, cebola, pimentão, tomate, coentro, alho","proteína, gordura, vegetal, condimento",Bahia (BA)
+Moqueca Capixaba,"peixe, azeite, cebola, tomate, coentro, urucum, alho","proteína, gordura, vegetal, condimento",Espírito Santo (ES)
+Baião de Dois,"arroz, feijão verde, carne seca, queijo coalho, cebola, alho, coentro","carboidrato, leguminosa, proteína, laticínio, condimento",Ceará (CE)
+Vatapá,"pão, leite de coco, azeite de dendê, camarão, amendoim, castanha, cebola","carboidrato, gordura, proteína, condimento",Bahia (BA)
+Bobó de Camarão,"camarão, mandioca, leite de coco, azeite de dendê, cebola, coentro, alho","proteína, carboidrato, gordura, condimento",Bahia (BA)
+Galinhada,"frango, arroz, açafrão, cebola, alho, pimentão","proteína, carboidrato, condimento, vegetal",Goiás (GO)
+Arroz Carreteiro,"arroz, carne seca, cebola, alho, pimentão, tomate","carboidrato, proteína, condimento, vegetal",Rio Grande do Sul (RS)
+Escondidinho de Carne Seca,"carne seca, mandioca, queijo coalho, cebola, alho","proteína, carboidrato, laticínio, condimento",Pernambuco (PE)
+Carne de Sol com Aipim,"carne de sol, aipim, manteiga de garrafa, cebola","proteína, carboidrato, gordura, condimento",Nordeste
+Dobradinha,"bucho, feijão branco, linguiça, bacon, cebola, alho","proteína, leguminosa, gordura, condimento",São Paulo (SP)
+Picadinho,"carne bovina, arroz, ovo, farofa, banana","proteína, carboidrato, fruta",Rio de Janeiro (RJ)
+Frango com Quiabo,"frango, quiabo, cebola, alho, óleo","proteína, vegetal, condimento, gordura",Minas Gerais (MG)
+Tutu de Feijão,"feijão, farinha de mandioca, bacon, linguiça, alho, cebola","leguminosa, carboidrato, gordura, proteína, condimento",Minas Gerais (MG)
+Picanha na Brasa,"picanha, sal grosso","proteína, condimento",Rio Grande do Sul (RS)
+Arroz à Grega,"arroz, cenoura, ervilha, pimentão, uva passa","carboidrato, vegetal, fruta",Brasil
+Farofa,"farinha de mandioca, manteiga, cebola, alho, bacon","carboidrato, gordura, condimento, proteína",Bahia (BA)
+Pirão,"caldo de peixe, farinha de mandioca","proteína, carboidrato",Nordeste
+Salada de Maionese,"batata, cenoura, maionese, ervilha","carboidrato, vegetal, gordura",Brasil
+Polenta,"fubá, água, sal, queijo ralado","carboidrato, condimento, laticínio",Santa Catarina (SC)
+Arroz Branco,"arroz, alho, óleo, sal","carboidrato, condimento, gordura",Brasil
+Feijão Tropeiro,"feijão, farinha de mandioca, linguiça, bacon, ovo, couve","leguminosa, carboidrato, proteína, gordura, vegetal",Minas Gerais (MG)
+Couve Refogada,"couve, alho, óleo, sal","vegetal, condimento, gordura",Minas Gerais (MG)
+Purê de Batata,"batata, leite, manteiga, sal","carboidrato, laticínio, gordura, condimento",Brasil
+Macarrão à Bolonhesa,"macarrão, carne moída, molho de tomate, cebola, alho","carboidrato, proteína, vegetal, condimento",Brasil
+Lasanha,"massa de lasanha, carne moída, molho de tomate, queijo, presunto","carboidrato, proteína, laticínio, vegetal, condimento",São Paulo (SP)
+Coxinha,"frango, farinha de trigo, leite, manteiga","proteína, carboidrato, laticínio, gordura",São Paulo (SP)
+Pastel,"massa de pastel, carne moída, queijo","carboidrato, proteína, laticínio",São Paulo (SP)
+Bolinho de Bacalhau,"bacalhau, batata, salsa, alho","proteína, carboidrato, condimento",Rio de Janeiro (RJ)
+Pão de Queijo,"polvilho, queijo, ovos, leite","carboidrato, laticínio",Minas Gerais (MG)
+Empadão de Frango,"frango, massa de empada, requeijão, milho","proteína, carboidrato, laticínio, vegetal",Goiás (GO)
+Esfiha,"massa, carne moída, cebola","carboidrato, proteína, vegetal",São Paulo (SP)
+Kibe,"trigo para kibe, carne moída, hortelã, cebola","carboidrato, proteína, vegetal, condimento",São Paulo (SP)
+Acarajé,"feijão fradinho, cebola, azeite de dendê, camarão seco","leguminosa, condimento, gordura, proteína",Bahia (BA)
+Torresmo,"barriga de porco, sal","gordura, proteína, condimento",Minas Gerais (MG)
+Bolinho de Chuva,"farinha de trigo, açúcar, leite, ovo, canela","carboidrato, laticínio, condimento",São Paulo (SP)
+Brigadeiro,"leite condensado, chocolate, manteiga","laticínio, condimento, gordura",Rio de Janeiro (RJ)
+Beijinho,"leite condensado, coco ralado, manteiga","laticínio, fruta, gordura",Brasil
+Pudim de Leite,"leite condensado, leite, ovos, açúcar","laticínio, condimento",Brasil
+Quindim,"gema de ovo, açúcar, coco ralado, manteiga","laticínio, fruta, gordura, condimento",Rio Grande do Sul (RS)
+Cocada,"coco, açúcar","fruta, condimento",Bahia (BA)
+Bolo de Fubá,"fubá, leite, ovos, açúcar, fermento","carboidrato, laticínio, condimento",Minas Gerais (MG)
+Bolo de Cenoura,"cenoura, farinha, açúcar, chocolate, ovos","vegetal, carboidrato, condimento, laticínio",Brasil
+Arroz Doce,"arroz, leite, açúcar, canela","carboidrato, laticínio, condimento",Nordeste
+Canjica,"milho branco, leite, leite condensado, canela","carboidrato, laticínio, condimento",Minas Gerais (MG)
+Goiabada Cascão,"goiaba, açúcar","fruta, condimento",Minas Gerais (MG)
+Tapioca,"goma de tapioca, coco, queijo","carboidrato, fruta, laticínio",Nordeste
+Cuscuz Nordestino,"flocão de milho, sal, manteiga","carboidrato, condimento, gordura",Nordeste
+Curau,"milho, leite, açúcar, canela","carboidrato, laticínio, condimento",São Paulo (SP)
+Açaí na Tigela,"açaí, banana, granola","fruta, carboidrato",Pará (PA)
+Caipirinha,"limão, cachaça, açúcar","fruta, condimento",São Paulo (SP)
